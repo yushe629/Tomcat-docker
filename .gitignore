@@ -1,0 +1,4 @@
+nginx-server/conf.d/nginx.conf
+nginx-server/log/*
+
+tomcat-server/log/*
